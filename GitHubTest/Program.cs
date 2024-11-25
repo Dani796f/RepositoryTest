@@ -6,6 +6,9 @@
         {
             Console.WriteLine("Hello");
             Console.WriteLine("Bye");
+
+
+            Console.WriteLine("Hej");
         }
     }
 }
